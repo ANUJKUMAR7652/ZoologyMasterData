@@ -1,10 +1,17 @@
 [
   {
     "question": "Q1. Explain Transcription in Eukaryotes.",
-    "answer": "ट्रांसक्रिप्शन वह प्रक्रिया है जिसके द्वारा DNA के एक स्ट्रैंड में मौजूद जानकारी को mRNA के एक नए अणु में कॉपी किया जाता है।.."
+    "answerHtml": "<b>Transcription</b> is the process of copying DNA into mRNA. <br><br><b>Key Steps:</b><ul><li>Initiation</li><li>Elongation</li><li>Termination</li></ul>",
+    "examTag": "CSIR NET"
   },
   {
-    "question": "Q2. What is RNA Polymerase?",
-    "answer": "RNA polymerase is an enzyme that is responsible for copying a DNA sequence into an RNA sequence, during the process of transcription."
+    "question": "Q2. What is the role of RNA Polymerase?",
+    "answerHtml": "It is a crucial enzyme. <br><br><i>Very important for competitive exams.</i>",
+    "examTag": "UPSC"
+  },
+  {
+    "question": "Q3. Define Cell Theory.",
+    "answerHtml": "All living organisms are composed of cells. They may be unicellular or multicellular.",
+    "examTag": "Class 11"
   }
 ]
