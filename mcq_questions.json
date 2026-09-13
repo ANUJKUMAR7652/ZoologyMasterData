@@ -1,0 +1,10 @@
+[
+  {
+    "question": "Which enzyme is used in transcription?",
+    "optA": "DNA Polymerase",
+    "optB": "RNA Polymerase",
+    "optC": "Ligase",
+    "optD": "Helicase",
+    "correct": "optB"
+  }
+]
