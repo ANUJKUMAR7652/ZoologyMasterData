@@ -1,0 +1,14 @@
+[
+  {
+    "classTag": "Class 11",
+    "chapterName": "Animal Kingdom",
+    "topic": "Classification of Animals",
+    "notesHtml": "<b>Classification:</b> Animals are classified based on symmetry, coelom, and notochord. <br><br><ul><li>Porifera</li><li>Coelenterata</li><li>Chordata</li></ul>"
+  },
+  {
+    "classTag": "B.Sc Zoology",
+    "chapterName": "Genetics",
+    "topic": "Mendel's Laws of Inheritance",
+    "notesHtml": "<b>Mendel's Laws:</b><br>1. Law of Dominance<br>2. Law of Segregation<br>3. Law of Independent Assortment."
+  }
+]
