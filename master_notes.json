@@ -1,5 +1,12 @@
 {
-  "Reproduction in Animals": "<b><font color='#EAB308'>Secret Trick:</font></b> Remember Amoeba (Binary Fission) and Hydra (Budding).<br><br><b>Key Point:</b> Plant cells have a <font color='#22C55E'>Cell Wall</font>.<br><br><b>Exam Tip:</b> Always draw the diagram of Amoeba in your board exams!",
-  "Cell Structure": "<b>Key Concept:</b> Nucleus is the brain of the cell. Plant cells have an extra <font color='#22C55E'>Cell Wall</font>.",
-  "Microorganisms": "<b>Hint:</b> Viruses can only multiply inside a living host cell."
+  "Reproduction in Animals": {
+    "trick": "Remember Amoeba (Binary Fission) and Hydra (Budding).",
+    "concept": "Nucleus is the brain of the cell.",
+    "hint": "Viruses can only multiply inside a living host cell."
+  },
+  "Cell Structure": {
+    "trick": "Plant cells have an extra Cell Wall for rigidity.",
+    "concept": "Protoplasm is Cytoplasm + Nucleus.",
+    "hint": "The smallest cell is Mycoplasma."
+  }
 }
