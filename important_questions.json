@@ -1,17 +1,102 @@
 [
   {
-    "question": "Q1. Explain Transcription in Eukaryotes.",
-    "answerHtml": "<b>Transcription</b> is the process of copying DNA into mRNA. <br><br><b>Key Steps:</b><ul><li>Initiation</li><li>Elongation</li><li>Termination</li></ul>",
+    "question": "Q1. कोशिका सिद्धांत (Cell Theory) किसने दिया और इसके मुख्य बिंदु क्या हैं?",
+    "answerHtml": "<b>कोशिका सिद्धांत</b> श्लाइडेन (Schleiden) और श्वान (Schwann) द्वारा दिया गया था। <br><br><b>मुख्य बिंदु:</b><ul><li>सभी जीवित जीव कोशिकाओं से बने हैं।</li><li>रुडोल्फ विर्चो (Rudolf Virchow) ने बताया कि सभी नई कोशिकाएं पूर्व-निर्मित कोशिकाओं (Pre-existing cells) से बनती हैं (<i>Omnis cellula-e-cellula</i>)।</li></ul>",
+    "examTag": "Class 11"
+  },
+  {
+    "question": "Q2. DNA और RNA के बीच मुख्य अंतर क्या हैं?",
+    "answerHtml": "<b>DNA और RNA में अंतर:</b><br><br><ol><li><b>शर्करा (Sugar):</b> DNA में डीऑक्सीराइबोज (Deoxyribose) जबकि RNA में राइबोज (Ribose) शर्करा होती है।</li><li><b>क्षारक (Base):</b> DNA में थाइमिन (Thymine) होता है, जबकि RNA में इसकी जगह यूरैसिल (Uracil) पाया जाता है।</li><li><b>संरचना:</b> DNA आमतौर पर डबल-स्ट्रैंडेड होता है, और RNA सिंगल-स्ट्रैंडेड।</li></ol>",
+    "examTag": "Class 12"
+  },
+  {
+    "question": "Q3. RNA पॉलीमरेज़ (RNA Polymerase) की क्या भूमिका है?",
+    "answerHtml": "<b>RNA पॉलीमरेज़</b> एक अत्यंत महत्वपूर्ण एंजाइम है जो अनुलेखन (Transcription) की प्रक्रिया में DNA से RNA का निर्माण करता है। <br><br>प्रोकैरियोट्स में केवल एक ही RNA पॉलीमरेज़ सभी प्रकार के RNA बनाता है, जबकि यूकैरियोट्स में तीन अलग-अलग RNA पॉलीमरेज़ (I, II, III) होते हैं।",
     "examTag": "CSIR NET"
   },
   {
-    "question": "Q2. What is the role of RNA Polymerase?",
-    "answerHtml": "It is a crucial enzyme. <br><br><i>Very important for competitive exams.</i>",
+    "question": "Q4. माइटोकॉन्ड्रिया (Mitochondria) को कोशिका का 'पावरहाउस' क्यों कहा जाता है?",
+    "answerHtml": "माइटोकॉन्ड्रिया में कोशिकीय श्वसन (Cellular Respiration) की प्रक्रिया होती है, जिससे ऊर्जा <b>ATP (Adenosine Triphosphate)</b> के रूप में उत्पन्न होती है। <br><br><i>महत्वपूर्ण:</i> इसका अपना वृत्ताकार DNA और 70S राइबोसोम होता है।",
+    "examTag": "Class 11"
+  },
+  {
+    "question": "Q5. मानव हृदय (Human Heart) में दोहरा परिसंचरण (Double Circulation) क्या है?",
+    "answerHtml": "मानव शरीर में रक्त एक चक्र पूरा करने के लिए हृदय से <b>दो बार</b> गुजरता है:<br><ul><li><b>फुफ्फुसीय परिसंचरण (Pulmonary Circulation):</b> हृदय से फेफड़ों तक और वापस।</li><li><b>दैहिक परिसंचरण (Systemic Circulation):</b> हृदय से शरीर के विभिन्न अंगों तक और वापस।</li></ul>",
+    "examTag": "NEET"
+  },
+  {
+    "question": "Q6. नेफ्रॉन (Nephron) की संरचना और कार्य को संक्षेप में बताएं।",
+    "answerHtml": "नेफ्रॉन किडनी की संरचनात्मक और कार्यात्मक इकाई है। <br><br><b>मुख्य भाग:</b><ul><li>बोमन संपुट (Bowman's Capsule)</li><li>ग्लोमेरुलस (Glomerulus)</li><li>पीसीटी (PCT), हेनले का लूप (Loop of Henle), और डीसीटी (DCT)</li></ul><b>कार्य:</b> रक्त को छानना और मूत्र (Urine) का निर्माण करना।",
+    "examTag": "Class 11"
+  },
+  {
+    "question": "Q7. यूकैरियोट्स में अनुलेखन (Transcription in Eukaryotes) की प्रक्रिया समझाएं।",
+    "answerHtml": "अनुलेखन DNA से mRNA बनने की प्रक्रिया है। <br><br><b>चरण:</b><ol><li><b>प्रारंभन (Initiation):</b> RNA पॉलीमरेज़ प्रमोटर क्षेत्र से जुड़ता है।</li><li><b>दीर्घीकरण (Elongation):</b> RNA शृंखला का निर्माण 5' से 3' दिशा में होता है।</li><li><b>समापन (Termination):</b> टर्मिनेटर अनुक्रम पर प्रक्रिया रुक जाती है।</li></ol>यूकैरियोट्स में इसके बाद स्प्लिसिंग (Splicing), कैपिंग और टेलिंग होती है।",
+    "examTag": "CSIR NET"
+  },
+  {
+    "question": "Q8. डार्विन के विकासवाद (Theory of Evolution) के मुख्य सिद्धांत क्या हैं?",
+    "answerHtml": "चार्ल्स डार्विन का सिद्धांत <b>प्राकृतिक चयन (Natural Selection)</b> पर आधारित है। <br><br><b>मुख्य बिंदु:</b><ul><li>अत्यधिक प्रजनन क्षमता।</li><li>अस्तित्व के लिए संघर्ष (Struggle for existence)।</li><li>विभिन्नताएं और आनुवंशिकता।</li><li>योग्यतम की उत्तरजीविता (Survival of the fittest)।</li></ul>",
     "examTag": "UPSC"
   },
   {
-    "question": "Q3. Define Cell Theory.",
-    "answerHtml": "All living organisms are composed of cells. They may be unicellular or multicellular.",
+    "question": "Q9. जिम्नोस्पर्म (Gymnosperms) और एंजियोस्पर्म (Angiosperms) में क्या अंतर है?",
+    "answerHtml": "<b>जिम्नोस्पर्म:</b> इनमें बीज नग्न होते हैं (अंडाशय/फल से ढके नहीं होते)। उदाहरण: पाइनस, साइकस। <br><br><b>एंजियोस्पर्म:</b> ये पुष्पीय पौधे हैं जिनके बीज फल के अंदर सुरक्षित होते हैं। उदाहरण: आम, गेहूं। इनमें दोहरा निषेचन (Double Fertilization) पाया जाता है।",
     "examTag": "Class 11"
+  },
+  {
+    "question": "Q10. प्लाज्मोडियम (Plasmodium) का जीवन चक्र कैसे पूरा होता है?",
+    "answerHtml": "मलेरिया फैलाने वाले प्लाज्मोडियम को अपना जीवन चक्र पूरा करने के लिए <b>दो पोषकों (Hosts)</b> की आवश्यकता होती है:<br><ol><li><b>मानव (Human):</b> अलैंगिक प्रजनन (Schizogony) यकृत और लाल रक्त कोशिकाओं में।</li><li><b>मादा एनाफिलीज मच्छर (Female Anopheles):</b> लैंगिक प्रजनन (Sporogony) मच्छर के पेट में।</li></ol>",
+    "examTag": "NEET"
+  },
+  {
+    "question": "Q11. सेंट्रल डोग्मा (Central Dogma of Molecular Biology) क्या है?",
+    "answerHtml": "फ्रांसिस क्रिक (Francis Crick) द्वारा प्रस्तावित यह सिद्धांत आनुवंशिक जानकारी के प्रवाह को दर्शाता है: <br><br><b>DNA ➔ RNA ➔ प्रोटीन</b><br><ul><li>DNA से DNA: <i>Replication</i></li><li>DNA से RNA: <i>Transcription</i></li><li>RNA से प्रोटीन: <i>Translation</i></li></ul>",
+    "examTag": "CSIR NET"
+  },
+  {
+    "question": "Q12. मानव रुधिर वर्ग (Blood Groups) की वंशागति कैसे होती है?",
+    "answerHtml": "मानव रक्त समूह ABO प्रणाली का पालन करते हैं जिसे <b>I जीन (Gene I)</b> नियंत्रित करता है। <br><br>इसके तीन एलील (Alleles) होते हैं: <b>I<sup>A</sup>, I<sup>B</sup>, और i</b>। <br>I<sup>A</sup> और I<sup>B</sup> सह-प्रभावी (Co-dominant) होते हैं, जबकि 'i' अप्रभावी (Recessive) होता है।",
+    "examTag": "Class 12"
+  },
+  {
+    "question": "Q13. पीयूष ग्रंथि (Pituitary Gland) को मास्टर ग्रंथि क्यों कहा जाता है?",
+    "answerHtml": "पीयूष ग्रंथि मस्तिष्क के हाइपोथैलेमस से जुड़ी होती है। <br><br>इसे <b>मास्टर ग्रंथि</b> कहा जाता है क्योंकि यह थायरॉयड, एड्रिनल और जनन ग्रंथियों (Gonads) जैसी अन्य सभी अंतःस्रावी ग्रंथियों (Endocrine Glands) के स्राव को नियंत्रित करती है।",
+    "examTag": "Class 11"
+  },
+  {
+    "question": "Q14. लामार्कवाद (Lamarckism) की मुख्य अवधारणा क्या थी?",
+    "answerHtml": "जीन बैप्टिस्ट लामार्क का सिद्धांत <b>'उपार्जित लक्षणों की वंशागति' (Inheritance of Acquired Characters)</b> पर आधारित था। <br><br>उनका मानना था कि जीवों द्वारा अपने जीवनकाल में पर्यावरण के अनुकूल विकसित किए गए लक्षण (जैसे जिराफ की लंबी गर्दन) अगली पीढ़ी में स्थानांतरित हो जाते हैं।",
+    "examTag": "UPSC"
+  },
+  {
+    "question": "Q15. एंटीबॉडी (Antibody) की संरचना का वर्णन करें।",
+    "answerHtml": "एंटीबॉडी या इम्युनोग्लोबुलिन (Ig) Y-आकार के प्रोटीन होते हैं। <br><br><b>संरचना:</b> इनमें 4 पॉलीपेप्टाइड शृंखलाएं होती हैं:<br><ul><li>दो हल्की शृंखलाएं (Light Chains)</li><li>दो भारी शृंखलाएं (Heavy Chains)</li></ul>इन्हें <b>H<sub>2</sub>L<sub>2</sub></b> के रूप में दर्शाया जाता है। ये डाईसल्फाइड बॉन्ड (Disulfide bonds) द्वारा जुड़ी होती हैं।",
+    "examTag": "CSIR NET"
+  },
+  {
+    "question": "Q16. द्विपद नामकरण (Binomial Nomenclature) प्रणाली क्या है?",
+    "answerHtml": "कार्लोस लीनियस (Carolus Linnaeus) द्वारा दी गई यह जीवों के नामकरण की एक सार्वभौमिक प्रणाली है। <br><br>प्रत्येक वैज्ञानिक नाम के <b>दो घटक</b> होते हैं:<br><ol><li><b>वंश (Genus):</b> पहला अक्षर हमेशा बड़ा (Capital) होता है।</li><li><b>जाति (Species):</b> पहला अक्षर हमेशा छोटा (Small) होता है।</li></ol>उदाहरण: <i>Homo sapiens</i>",
+    "examTag": "Class 11"
+  },
+  {
+    "question": "Q17. समसूत्री (Mitosis) और अर्धसूत्री (Meiosis) विभाजन में क्या अंतर है?",
+    "answerHtml": "<b>समसूत्री विभाजन:</b> यह कायिक कोशिकाओं (Somatic cells) में होता है। एक कोशिका से दो समान संतति कोशिकाएं बनती हैं जिनमें गुणसूत्रों की संख्या समान (Diploid) रहती है। <br><br><b>अर्धसूत्री विभाजन:</b> यह जनन कोशिकाओं (Germ cells) में होता है। एक कोशिका से चार संतति कोशिकाएं बनती हैं जिनमें गुणसूत्रों की संख्या आधी (Haploid) हो जाती है।",
+    "examTag": "Class 11"
+  },
+  {
+    "question": "Q18. खाद्य शृंखला (Food Chain) और खाद्य जाल (Food Web) को परिभाषित करें।",
+    "answerHtml": "<b>खाद्य शृंखला:</b> पारिस्थितिकी तंत्र में ऊर्जा के प्रवाह का एक सीधा क्रम है (जैसे: घास ➔ टिड्डा ➔ मेंढक ➔ सांप)। <br><br><b>खाद्य जाल:</b> प्रकृति में कई खाद्य शृंखलाएं आपस में जुड़कर एक जटिल नेटवर्क बनाती हैं, जिसे खाद्य जाल कहते हैं। यह पारिस्थितिकी तंत्र को स्थिरता प्रदान करता है।",
+    "examTag": "Class 12"
+  },
+  {
+    "question": "Q19. DNA प्रतिकृतियन (DNA Replication) को 'अर्ध-संरक्षी' (Semi-conservative) क्यों कहा जाता है?",
+    "answerHtml": "वाटसन और क्रिक के अनुसार, DNA प्रतिकृतियन के बाद बनने वाले प्रत्येक नए DNA अणु में <b>एक स्ट्रैंड पुराना (पैतृक)</b> होता है और <b>एक स्ट्रैंड बिल्कुल नया</b> संश्लेषित होता है। <br><br>इसकी पुष्टि मेसल्सन और स्टाल (Meselson and Stahl) ने अपने प्रयोगों से की थी।",
+    "examTag": "CSIR NET"
+  },
+  {
+    "question": "Q20. ओजोन परत के क्षरण (Ozone Depletion) के मुख्य कारण क्या हैं?",
+    "answerHtml": "समताप मंडल (Stratosphere) में मौजूद ओजोन परत सूर्य की हानिकारक पराबैंगनी (UV) किरणों से बचाती है। <br><br><b>क्षरण का कारण:</b> मुख्य रूप से क्लोरोफ्लोरोकार्बन (CFCs) का अत्यधिक उपयोग। CFCs से निकलने वाले क्लोरीन परमाणु ओजोन (O<sub>3</sub>) को तोड़कर ऑक्सीजन (O<sub>2</sub>) में बदल देते हैं।",
+    "examTag": "UPSC"
   }
 ]
