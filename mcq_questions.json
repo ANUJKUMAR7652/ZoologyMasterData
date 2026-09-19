@@ -1,18 +1,402 @@
 [
   {
-    "question": "Which enzyme is used in transcription?",
-    "optA": "DNA Polymerase",
-    "optB": "RNA Polymerase",
-    "optC": "Ligase",
-    "optD": "Helicase",
+    "question": "Q1. कोशिका का 'शक्ति गृह' (Powerhouse) किसे कहा जाता है?",
+    "optA": "केन्द्रक (Nucleus)",
+    "optB": "माइटोकॉन्ड्रिया (Mitochondria)",
+    "optC": "राइबोसोम (Ribosome)",
+    "optD": "लाइसोसोम (Lysosome)",
     "correct": "optB"
   },
   {
-    "question": "What is the powerhouse of the cell?",
-    "optA": "Nucleus",
-    "optB": "Mitochondria",
-    "optC": "Ribosome",
-    "optD": "Golgi body",
+    "question": "Q2. मानव शरीर की सबसे बड़ी ग्रंथि कौन-सी है?",
+    "optA": "यकृत (Liver)",
+    "optB": "अग्न्याशय (Pancreas)",
+    "optC": "पीयूष ग्रंथि (Pituitary)",
+    "optD": "थायरॉयड (Thyroid)",
+    "correct": "optA"
+  },
+  {
+    "question": "Q3. कोशिका की 'आत्मघाती थैली' (Suicide Bag) किसे कहते हैं?",
+    "optA": "गॉल्जीकाय",
+    "optB": "राइबोसोम",
+    "optC": "लाइसोसोम",
+    "optD": "रिक्तिका",
+    "correct": "optC"
+  },
+  {
+    "question": "Q4. DNA का 'डबल हेलिक्स' मॉडल किसने प्रस्तुत किया था?",
+    "optA": "रॉबर्ट हुक",
+    "optB": "वाटसन और क्रिक",
+    "optC": "चार्ल्स डार्विन",
+    "optD": "ग्रेगर मेंडल",
+    "correct": "optB"
+  },
+  {
+    "question": "Q5. मानव रक्त का रंग लाल किसके कारण होता है?",
+    "optA": "प्लाज्मा",
+    "optB": "प्लेटलेट्स",
+    "optC": "मायोग्लोबिन",
+    "optD": "हीमोग्लोबिन",
+    "correct": "optD"
+  },
+  {
+    "question": "Q6. सर्वदाता (Universal Donor) रक्त समूह कौन-सा है?",
+    "optA": "A",
+    "optB": "B",
+    "optC": "AB",
+    "optD": "O",
+    "correct": "optD"
+  },
+  {
+    "question": "Q7. सर्वग्राही (Universal Acceptor) रक्त समूह कौन-सा है?",
+    "optA": "A",
+    "optB": "B",
+    "optC": "AB",
+    "optD": "O",
+    "correct": "optC"
+  },
+  {
+    "question": "Q8. मानव शरीर की सबसे छोटी हड्डी कौन-सी है?",
+    "optA": "फीमर (Femur)",
+    "optB": "स्टेपीज़ (Stapes)",
+    "optC": "टिबिया (Tibia)",
+    "optD": "फिबुला (Fibula)",
+    "correct": "optB"
+  },
+  {
+    "question": "Q9. मानव शरीर की सबसे बड़ी हड्डी कौन-सी है?",
+    "optA": "ह्यूमरस (Humerus)",
+    "optB": "फीमर (Femur)",
+    "optC": "रेडियस (Radius)",
+    "optD": "अल्ना (Ulna)",
+    "correct": "optB"
+  },
+  {
+    "question": "Q10. प्रोटीन की फैक्ट्री (Protein Factory) किसे कहा जाता है?",
+    "optA": "राइबोसोम",
+    "optB": "लाइसोसोम",
+    "optC": "केन्द्रक",
+    "optD": "माइटोकॉन्ड्रिया",
+    "correct": "optA"
+  },
+  {
+    "question": "Q11. आनुवंशिकी का पिता (Father of Genetics) किसे कहा जाता है?",
+    "optA": "चार्ल्स डार्विन",
+    "optB": "लैमार्क",
+    "optC": "ग्रेगर जॉन मेंडल",
+    "optD": "ह्यूगो डी व्रीस",
+    "correct": "optC"
+  },
+  {
+    "question": "Q12. पीयूष ग्रंथि (Pituitary Gland) को अन्य किस नाम से जाना जाता है?",
+    "optA": "आपातकालीन ग्रंथि",
+    "optB": "मास्टर ग्रंथि",
+    "optC": "मिश्रित ग्रंथि",
+    "optD": "थाइमस ग्रंथि",
+    "correct": "optB"
+  },
+  {
+    "question": "Q13. मानव हृदय में कितने कक्ष (Chambers) होते हैं?",
+    "optA": "दो",
+    "optB": "तीन",
+    "optC": "चार",
+    "optD": "पाँच",
+    "correct": "optC"
+  },
+  {
+    "question": "Q14. मेंढक (Amphibians) के हृदय में कितने कक्ष होते हैं?",
+    "optA": "दो",
+    "optB": "तीन",
+    "optC": "चार",
+    "optD": "एक",
+    "correct": "optB"
+  },
+  {
+    "question": "Q15. मछलियों के हृदय में कितने कक्ष होते हैं?",
+    "optA": "दो",
+    "optB": "तीन",
+    "optC": "चार",
+    "optD": "कोई कक्ष नहीं होता",
+    "correct": "optA"
+  },
+  {
+    "question": "Q16. लार (Saliva) में कौन-सा एंजाइम पाया जाता है?",
+    "optA": "पेप्सिन",
+    "optB": "रेनिन",
+    "optC": "टायलिन (Ptyalin/Amylase)",
+    "optD": "लाइपेज",
+    "correct": "optC"
+  },
+  {
+    "question": "Q17. मानव पेट (Stomach) में कौन-सा अम्ल पाया जाता है?",
+    "optA": "सल्फ्यूरिक अम्ल",
+    "optB": "हाइड्रोक्लोरिक अम्ल (HCl)",
+    "optC": "नाइट्रिक अम्ल",
+    "optD": "लैक्टिक अम्ल",
+    "correct": "optB"
+  },
+  {
+    "question": "Q18. लाल रक्त कणिकाओं (RBC) का जीवनकाल कितना होता है?",
+    "optA": "120 दिन",
+    "optB": "60 दिन",
+    "optC": "15 दिन",
+    "optD": "200 दिन",
+    "correct": "optA"
+  },
+  {
+    "question": "Q19. श्वेत रक्त कणिकाओं (WBC) का मुख्य कार्य क्या है?",
+    "optA": "ऑक्सीजन का परिवहन",
+    "optB": "रोगों से बचाव (Immunity)",
+    "optC": "भोजन का पाचन",
+    "optD": "हॉर्मोन का निर्माण",
+    "correct": "optB"
+  },
+  {
+    "question": "Q20. मानव शरीर की सबसे लंबी कोशिका कौन-सी है?",
+    "optA": "पेशी कोशिका",
+    "optB": "तंत्रिका कोशिका (Neuron)",
+    "optC": "त्वचा कोशिका",
+    "optD": "रक्त कोशिका",
+    "correct": "optB"
+  },
+  {
+    "question": "Q21. वृक्क (Kidney) की कार्यात्मक इकाई क्या है?",
+    "optA": "नेफ्रॉन (Nephron)",
+    "optB": "न्यूरॉन (Neuron)",
+    "optC": "एल्वियोली (Alveoli)",
+    "optD": "विली (Villi)",
+    "correct": "optA"
+  },
+  {
+    "question": "Q22. विटामिन C की कमी से कौन-सा रोग होता है?",
+    "optA": "रतौंधी",
+    "optB": "बेरी-बेरी",
+    "optC": "स्कर्वी",
+    "optD": "रिकेट्स",
+    "correct": "optC"
+  },
+  {
+    "question": "Q23. रतौंधी (Night Blindness) किस विटामिन की कमी से होता है?",
+    "optA": "विटामिन A",
+    "optB": "विटामिन B",
+    "optC": "विटामिन C",
+    "optD": "विटामिन D",
+    "correct": "optA"
+  },
+  {
+    "question": "Q24. मलेरिया रोग किस परजीवी के कारण होता है?",
+    "optA": "प्लाज्मोडियम (Plasmodium)",
+    "optB": "एंटअमीबा",
+    "optC": "लीशमैनिया",
+    "optD": "ट्रिपैनोसोमा",
+    "correct": "optA"
+  },
+  {
+    "question": "Q25. डेंगू बुखार किस मच्छर के काटने से फैलता है?",
+    "optA": "मादा एनाफिलीज",
+    "optB": "मादा एडीज (Aedes aegypti)",
+    "optC": "क्यूलेक्स",
+    "optD": "नर एनाफिलीज",
+    "correct": "optB"
+  },
+  {
+    "question": "Q26. पक्षियों के अध्ययन को क्या कहा जाता है?",
+    "optA": "एंटोमोलॉजी (Entomology)",
+    "optB": "ऑर्निथोलॉजी (Ornithology)",
+    "optC": "इक्थियोलॉजी (Ichthyology)",
+    "optD": "वायरोलॉजी (Virology)",
+    "correct": "optB"
+  },
+  {
+    "question": "Q27. कीड़ों (Insects) के अध्ययन को क्या कहा जाता है?",
+    "optA": "एंटोमोलॉजी (Entomology)",
+    "optB": "ऑर्निथोलॉजी",
+    "optC": "हिस्टोलॉजी",
+    "optD": "साइटोलॉजी",
+    "correct": "optA"
+  },
+  {
+    "question": "Q28. मानव शरीर में कुल कितनी हड्डियाँ होती हैं?",
+    "optA": "206",
+    "optB": "300",
+    "optC": "208",
+    "optD": "210",
+    "correct": "optA"
+  },
+  {
+    "question": "Q29. नवजात शिशु में हड्डियों की संख्या लगभग कितनी होती है?",
+    "optA": "206",
+    "optB": "300",
+    "optC": "150",
+    "optD": "250",
+    "correct": "optB"
+  },
+  {
+    "question": "Q30. रक्त समूह (Blood Group) की खोज किसने की थी?",
+    "optA": "रॉबर्ट हुक",
+    "optB": "कार्ल लैंडस्टीनर",
+    "optC": "विलियम हार्वे",
+    "optD": "लुई पाश्चर",
+    "correct": "optB"
+  },
+  {
+    "question": "Q31. रक्त परिसंचरण (Blood Circulation) की खोज किसने की थी?",
+    "optA": "विलियम हार्वे",
+    "optB": "कार्ल लैंडस्टीनर",
+    "optC": "रॉबर्ट ब्राउन",
+    "optD": "वाटसन",
+    "correct": "optA"
+  },
+  {
+    "question": "Q32. कोशिका की खोज किसने की थी?",
+    "optA": "रॉबर्ट ब्राउन",
+    "optB": "रॉबर्ट हुक",
+    "optC": "ल्यूवेनहॉक",
+    "optD": "श्लाइडन",
+    "correct": "optB"
+  },
+  {
+    "question": "Q33. केन्द्रक (Nucleus) की खोज किसने की थी?",
+    "optA": "रॉबर्ट हुक",
+    "optB": "रॉबर्ट ब्राउन",
+    "optC": "कैमिलो गॉल्जी",
+    "optD": "मेंडल",
+    "correct": "optB"
+  },
+  {
+    "question": "Q34. कौन-सा जानवर अपने नीले रक्त (Blue Blood) के लिए जाना जाता है?",
+    "optA": "झींगा",
+    "optB": "ऑक्टोपस (Octopus)",
+    "optC": "कछुआ",
+    "optD": "शार्क",
+    "correct": "optB"
+  },
+  {
+    "question": "Q35. पृथ्वी पर सबसे बड़ा स्तनधारी (Mammal) कौन-सा है?",
+    "optA": "हाथी",
+    "optB": "जिराफ",
+    "optC": "ब्लू व्हेल (Blue Whale)",
+    "optD": "गैंडा",
+    "correct": "optC"
+  },
+  {
+    "question": "Q36. सबसे छोटा पक्षी कौन-सा है?",
+    "optA": "कबूतर",
+    "optB": "हमिंगबर्ड (Hummingbird)",
+    "optC": "किवी",
+    "optD": "शुतुरमुर्ग",
+    "correct": "optB"
+  },
+  {
+    "question": "Q37. मानव कोशिका में कितने गुणसूत्र (Chromosomes) होते हैं?",
+    "optA": "46 (23 जोड़े)",
+    "optB": "48 (24 जोड़े)",
+    "optC": "44 (22 जोड़े)",
+    "optD": "42 (21 जोड़े)",
+    "correct": "optA"
+  },
+  {
+    "question": "Q38. पुरुषों में कौन-से सेक्स गुणसूत्र पाए जाते हैं?",
+    "optA": "XX",
+    "optB": "YY",
+    "optC": "XY",
+    "optD": "XO",
+    "correct": "optC"
+  },
+  {
+    "question": "Q39. महिलाओं में कौन-से सेक्स गुणसूत्र पाए जाते हैं?",
+    "optA": "XX",
+    "optB": "XY",
+    "optC": "YY",
+    "optD": "XXY",
+    "correct": "optA"
+  },
+  {
+    "question": "Q40. इनमें से कौन-सा एक स्तनधारी (Mammal) नहीं है?",
+    "optA": "चमगादड़",
+    "optB": "व्हेल",
+    "optC": "पेंग्विन",
+    "optD": "डॉल्फिन",
+    "correct": "optC"
+  },
+  {
+    "question": "Q41. आँसुओं (Tears) में कौन-सा एंजाइम पाया जाता है जो जीवाणुओं को नष्ट करता है?",
+    "optA": "टायलिन",
+    "optB": "लाइसोजाइम (Lysozyme)",
+    "optC": "पेप्सिन",
+    "optD": "रेनिन",
+    "correct": "optB"
+  },
+  {
+    "question": "Q42. कवकों (Fungi) की कोशिका भित्ति किसकी बनी होती है?",
+    "optA": "सेलूलोज़",
+    "optB": "काइटिन (Chitin)",
+    "optC": "पेप्टिडोग्लाइकन",
+    "optD": "लिपिड",
+    "correct": "optB"
+  },
+  {
+    "question": "Q43. पादप कोशिका भित्ति (Plant Cell Wall) मुख्य रूप से किसकी बनी होती है?",
+    "optA": "सेलूलोज़",
+    "optB": "काइटिन",
+    "optC": "प्रोटीन",
+    "optD": "वसा",
+    "correct": "optA"
+  },
+  {
+    "question": "Q44. DNA से RNA बनने की प्रक्रिया को क्या कहते हैं?",
+    "optA": "अनुवादन (Translation)",
+    "optB": "अनुलेखन (Transcription)",
+    "optC": "प्रतिकृतियन (Replication)",
+    "optD": "उत्परिवर्तन (Mutation)",
+    "correct": "optB"
+  },
+  {
+    "question": "Q45. RNA से प्रोटीन बनने की प्रक्रिया को क्या कहते हैं?",
+    "optA": "अनुवादन (Translation)",
+    "optB": "अनुलेखन (Transcription)",
+    "optC": "रेप्लिकेशन",
+    "optD": "ट्रांसडक्शन",
+    "correct": "optA"
+  },
+  {
+    "question": "Q46. उत्परिवर्तन (Mutation) का सिद्धांत किसने दिया था?",
+    "optA": "चार्ल्स डार्विन",
+    "optB": "ह्यूगो डी व्रीस (Hugo de Vries)",
+    "optC": "लैमार्क",
+    "optD": "ग्रेगर मेंडल",
+    "correct": "optB"
+  },
+  {
+    "question": "Q47. पित्त रस (Bile Juice) का स्राव कहाँ से होता है?",
+    "optA": "पित्ताशय (Gallbladder)",
+    "optB": "यकृत (Liver)",
+    "optC": "अग्न्याशय (Pancreas)",
+    "optD": "आमाशय (Stomach)",
+    "correct": "optB"
+  },
+  {
+    "question": "Q48. पित्त रस (Bile Juice) जमा (Store) कहाँ होता है?",
+    "optA": "यकृत (Liver)",
+    "optB": "पित्ताशय (Gallbladder)",
+    "optC": "गुर्दा (Kidney)",
+    "optD": "अग्न्याशय",
+    "correct": "optB"
+  },
+  {
+    "question": "Q49. इंसुलिन (Insulin) का स्राव किस ग्रंथि से होता है?",
+    "optA": "यकृत",
+    "optB": "थायरॉयड",
+    "optC": "अग्न्याशय (Pancreas)",
+    "optD": "पीयूष ग्रंथि",
+    "correct": "optC"
+  },
+  {
+    "question": "Q50. शरीर में यूरिया का निर्माण कहाँ होता है?",
+    "optA": "वृक्क (Kidney)",
+    "optB": "यकृत (Liver)",
+    "optC": "फेफड़े",
+    "optD": "हृदय",
     "correct": "optB"
   }
 ]
