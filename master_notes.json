@@ -1,12 +1,252 @@
 {
-  "Reproduction in Animals": {
-    "trick": "Remember Amoeba (Binary Fission) and Hydra (Budding).",
-    "concept": "Nucleus is the brain of the cell.",
-    "hint": "Viruses can only multiply inside a living host cell."
+  "Cell Theory": {
+    "trick": "SS Team = Schleiden (Botanist) + Schwann (Zoologist).",
+    "concept": "Omnis cellula-e-cellula (All new cells arise from pre-existing cells) - stated by Rudolf Virchow.",
+    "hint": "Viruses are exceptions to the Cell Theory as they lack cellular machinery."
   },
-  "Cell Structure": {
-    "trick": "Plant cells have an extra Cell Wall for rigidity.",
-    "concept": "Protoplasm is Cytoplasm + Nucleus.",
-    "hint": "The smallest cell is Mycoplasma."
+  "Mitochondria": {
+    "trick": "Mito (Thread) + Chondrion (Granule) = Powerhouse.",
+    "concept": "Site of aerobic respiration generating ATP. It has its own circular DNA and 70S ribosomes.",
+    "hint": "It is a semi-autonomous organelle. Found in large numbers in active cells like muscle cells."
+  },
+  "Lysosomes": {
+    "trick": "Lyso (Digest) + Soma (Body) = The Suicide Bags.",
+    "concept": "Contains hydrolytic enzymes (acid hydrolases) active at acidic pH (~5.0) for intracellular digestion.",
+    "hint": "Highly abundant in macrophages and WBCs for destroying pathogens."
+  },
+  "Ribosomes": {
+    "trick": "No Membrane = Universal Organelle (found in both Prokaryotes and Eukaryotes).",
+    "concept": "Known as the Protein Factory of the cell. Made of rRNA and proteins.",
+    "hint": "Prokaryotes have 70S (50S+30S), while Eukaryotes have 80S (60S+40S) ribosomes."
+  },
+  "Endoplasmic Reticulum": {
+    "trick": "RER has dots (Ribosomes) = Proteins. SER is smooth = Lipids.",
+    "concept": "Intracellular transport system. SER detoxifies drugs in the liver.",
+    "hint": "Muscle cells have specialized SER called Sarcoplasmic Reticulum that stores Calcium."
+  },
+  "Golgi Apparatus": {
+    "trick": "The Post Office of the Cell (Packages and Ships).",
+    "concept": "Modifies, sorts, and packages proteins for secretion. Forms glycoproteins and glycolipids.",
+    "hint": "Cis-face is the receiving end, Trans-face is the shipping end."
+  },
+  "Nucleus": {
+    "trick": "Brain/Director of the cell. Discovered by Robert Brown.",
+    "concept": "Contains genetic material (Chromatin) and Nucleolus (site for active rRNA synthesis).",
+    "hint": "Mammalian mature RBCs lack a nucleus to accommodate more hemoglobin."
+  },
+  "Plasma Membrane": {
+    "trick": "Fluid Mosaic Model = Icebergs of proteins floating in a sea of lipids.",
+    "concept": "Selectively permeable membrane primarily composed of a phospholipid bilayer and proteins.",
+    "hint": "Proposed by Singer and Nicolson in 1972."
+  },
+  "Mitosis": {
+    "trick": "PMAT = Prophase, Metaphase, Anaphase, Telophase.",
+    "concept": "Equational division where one somatic cell divides into two identical diploid daughter cells.",
+    "hint": "Best stage to study chromosome morphology (shape) is Metaphase."
+  },
+  "Meiosis": {
+    "trick": "Meiosis I is Reductional (Chromosome number halves), Meiosis II is Equational.",
+    "concept": "Occurs in germ cells to produce haploid gametes. Crossing over occurs in Pachytene stage.",
+    "hint": "Chiasmata formation is the physical evidence of genetic recombination."
+  },
+  "DNA Structure": {
+    "trick": "A double bonds with T (A=T), C triple bonds with G (C≡G).",
+    "concept": "Right-handed double helix. Backbone is made of sugar and phosphate.",
+    "hint": "The two strands are anti-parallel (5' to 3' and 3' to 5')."
+  },
+  "RNA Types": {
+    "trick": "mRNA (Messenger), tRNA (Transfer), rRNA (Ribosomal).",
+    "concept": "rRNA is the most abundant. tRNA has a clover-leaf structure and carries amino acids.",
+    "hint": "RNA contains Uracil instead of Thymine."
+  },
+  "Transcription": {
+    "trick": "DNA to RNA = Transcribing the message.",
+    "concept": "RNA Polymerase binds to the Promoter and synthesizes mRNA in the 5' to 3' direction.",
+    "hint": "In eukaryotes, non-coding Introns are removed through Splicing."
+  },
+  "Translation": {
+    "trick": "RNA to Protein = Translating the language of nucleotides into amino acids.",
+    "concept": "Occurs in the cytoplasm on ribosomes. AUG is the universal start codon.",
+    "hint": "UAA, UAG, and UGA are stop codons that terminate the process."
+  },
+  "Central Dogma": {
+    "trick": "DNA ➔ RNA ➔ Protein.",
+    "concept": "Unidirectional flow of genetic information proposed by Francis Crick.",
+    "hint": "Retroviruses (like HIV) show Reverse Central Dogma using Reverse Transcriptase."
+  },
+  "Mendel First Law": {
+    "trick": "Law of Dominance = The stronger trait hides the weaker one.",
+    "concept": "In a heterozygous condition, only the dominant allele expresses itself.",
+    "hint": "Incomplete dominance (e.g., Snapdragon flowers) is an exception to this law."
+  },
+  "Mendel Second Law": {
+    "trick": "Law of Segregation = Purity of Gametes.",
+    "concept": "Alleles separate during gamete formation so each gamete receives only one allele.",
+    "hint": "This law has NO exceptions in diploid organisms."
+  },
+  "Blood Groups": {
+    "trick": "AB is the Universal Acceptor (No antibodies), O is the Universal Donor (No antigens).",
+    "concept": "Determined by multiple alleles (IA, IB, i). IA and IB show Co-dominance.",
+    "hint": "Rh factor determines positive or negative blood type. Erythroblastosis fetalis occurs in Rh- mother and Rh+ fetus."
+  },
+  "Sex Determination": {
+    "trick": "Humans: XX (Female) / XY (Male). Birds: ZW (Female) / ZZ (Male).",
+    "concept": "In humans, the male heterogamety determines the sex of the child via the Y chromosome.",
+    "hint": "The SRY gene on the Y chromosome triggers male development."
+  },
+  "Mutation": {
+    "trick": "Sudden heritable change. Coined by Hugo de Vries.",
+    "concept": "Point mutation involves a single base pair change (e.g., Sickle Cell Anemia).",
+    "hint": "Frameshift mutations are more dangerous as they alter the entire reading frame."
+  },
+  "Evolution by Darwin": {
+    "trick": "Survival of the Fittest via Natural Selection.",
+    "concept": "Nature selects variations that are most useful for survival in a given environment.",
+    "hint": "Darwin's finches on the Galapagos Islands are a classic example of adaptive radiation."
+  },
+  "Lamarckism": {
+    "trick": "Use and Disuse of Organs + Inheritance of Acquired Characters.",
+    "concept": "Proposed that traits acquired during a lifetime are passed to offspring (e.g., long neck of giraffe).",
+    "hint": "August Weismann disproved this with his Germplasm theory (cutting mice tails)."
+  },
+  "Human Heart": {
+    "trick": "Right side handles deoxygenated (blue), Left side handles oxygenated (red) blood.",
+    "concept": "Four-chambered myogenic heart. SA Node is the natural pacemaker.",
+    "hint": "Coronary arteries supply oxygenated blood directly to the heart muscles."
+  },
+  "Double Circulation": {
+    "trick": "Systemic (Heart to Body) + Pulmonary (Heart to Lungs).",
+    "concept": "Ensures strict separation of oxygenated and deoxygenated blood in mammals and birds.",
+    "hint": "Amphibians and reptiles have incomplete double circulation (3-chambered heart)."
+  },
+  "Red Blood Cells": {
+    "trick": "Erythrocytes = Oxygen carriers. Lifespan = 120 days.",
+    "concept": "Biconcave shape increases surface area. Destroyed in the Spleen (Graveyard of RBCs).",
+    "hint": "Formation of RBCs is called Erythropoiesis, stimulated by hormone erythropoietin from kidneys."
+  },
+  "White Blood Cells": {
+    "trick": "Leukocytes = The Defense Army. Neutrophils are the most abundant.",
+    "concept": "Protect against infections. Lymphocytes (B and T cells) provide specific immunity.",
+    "hint": "Abnormal increase in WBC count is an indicator of Leukemia (Blood Cancer)."
+  },
+  "Platelets": {
+    "trick": "Thrombocytes = Blood Clotters.",
+    "concept": "Cell fragments formed from Megakaryocytes in the bone marrow. Prevent excessive bleeding.",
+    "hint": "Dengue fever causes a massive drop in platelet count (Thrombocytopenia)."
+  },
+  "Nephron": {
+    "trick": "The structural and functional filtering unit of the kidney.",
+    "concept": "Consists of Bowman's capsule, Glomerulus, PCT, Henle's Loop, and DCT.",
+    "hint": "Glomerular filtration is a passive, non-selective process driven by blood pressure."
+  },
+  "Urine Formation": {
+    "trick": "Filter, Reabsorb, Secrete.",
+    "concept": "Maximum reabsorption of water and nutrients occurs in the PCT (Proximal Convoluted Tubule).",
+    "hint": "ADH (Vasopressin) makes the DCT and collecting duct permeable to water, concentrating the urine."
+  },
+  "Neurons": {
+    "trick": "Dendrites Receive, Axons Transmit.",
+    "concept": "Longest cells in the body. They do not divide as they lack centrioles.",
+    "hint": "Myelin sheath acts as an insulator and speeds up nerve impulse conduction (Saltatory conduction)."
+  },
+  "Cerebrum": {
+    "trick": "The 'Thinking' Brain.",
+    "concept": "Largest part of the brain. Responsible for memory, intelligence, speech, and voluntary movements.",
+    "hint": "Divided into two hemispheres connected by the Corpus Callosum."
+  },
+  "Cerebellum": {
+    "trick": "The 'Little Brain' for Balance.",
+    "concept": "Maintains posture, equilibrium, and coordinates smooth voluntary muscle movements.",
+    "hint": "Alcohol consumption primarily affects the cerebellum, causing staggering gait."
+  },
+  "Pituitary Gland": {
+    "trick": "The Master Gland.",
+    "concept": "Located in the Sella turcica of the sphenoid bone. Controlled by the Hypothalamus.",
+    "hint": "Anterior lobe secretes Growth Hormone, while the Posterior lobe stores Oxytocin and ADH."
+  },
+  "Thyroid Gland": {
+    "trick": "The BMR (Basal Metabolic Rate) Controller.",
+    "concept": "Secretes Thyroxine (T4) and Triiodothyronine (T3). Requires Iodine for hormone synthesis.",
+    "hint": "Deficiency of iodine causes Goiter. In children, it causes Cretinism (mental retardation)."
+  },
+  "Adrenal Gland": {
+    "trick": "Fight, Flight, and Fright (3F) Gland.",
+    "concept": "Located above kidneys. Medulla secretes Adrenaline (Epinephrine) during emergencies.",
+    "hint": "Cortex secretes Cortisol (Life-saving/Stress hormone) and Aldosterone."
+  },
+  "Pancreas Endocrine": {
+    "trick": "Islets of Langerhans: Alpha makes Glucagon, Beta makes Insulin.",
+    "concept": "Insulin lowers blood glucose, Glucagon raises it. They act antagonistically.",
+    "hint": "Lack of insulin leads to Diabetes Mellitus (high blood sugar)."
+  },
+  "Male Reproductive System": {
+    "trick": "Testes are outside the body for a reason.",
+    "concept": "Located in the scrotum to maintain a temperature 2-2.5°C lower than body temp for spermatogenesis.",
+    "hint": "Leydig cells secrete Testosterone, while Sertoli cells provide nutrition to sperm."
+  },
+  "Female Reproductive System": {
+    "trick": "Ovary (Eggs) -> Fallopian Tube (Fertilization) -> Uterus (Implantation).",
+    "concept": "The endometrium of the uterus thickens and sheds cyclically (menstruation).",
+    "hint": "The Ampulla of the fallopian tube is the exact site of fertilization."
+  },
+  "Menstrual Cycle": {
+    "trick": "Ovulation happens on the 14th day due to the LH Surge.",
+    "concept": "Corpus luteum forms after ovulation and secretes Progesterone to maintain pregnancy.",
+    "hint": "If fertilization does not occur, the corpus luteum degenerates into corpus albicans."
+  },
+  "Fertilization": {
+    "trick": "Sperm meets Ovum.",
+    "concept": "Fusion of haploid male and female gametes to form a diploid zygote.",
+    "hint": "Acrosome of the sperm releases enzymes (hyaluronidase) to penetrate the egg coverings."
+  },
+  "Plasmodium Life Cycle": {
+    "trick": "Human = Asexual, Mosquito = Sexual Host.",
+    "concept": "Causes Malaria. Sporozoites are the infective stage injected by female Anopheles.",
+    "hint": "Hemozoin is the toxic substance released from ruptured RBCs causing chills and fever."
+  },
+  "Antibodies": {
+    "trick": "GAMED = IgG, IgA, IgM, IgE, IgD.",
+    "concept": "IgG can cross the placenta. IgA is found in colostrum (mother's milk) and saliva.",
+    "hint": "IgE is primarily involved in allergic reactions."
+  },
+  "Immunity Types": {
+    "trick": "Innate is by birth, Acquired is developed.",
+    "concept": "Active immunity: Body makes its own antibodies (slow but long-lasting). Passive: Readymade antibodies are given (fast but short-lived).",
+    "hint": "Vaccination is an example of artificial active immunity."
+  },
+  "AIDS": {
+    "trick": "Caused by HIV (Retrovirus).",
+    "concept": "The virus specifically attacks and destroys Helper T-cells (CD4+ cells), paralyzing the immune system.",
+    "hint": "ELISA is the screening test, Western Blot is the confirmatory test."
+  },
+  "Cancer": {
+    "trick": "Uncontrolled cell division. Tumors can be Benign or Malignant.",
+    "concept": "Malignant tumors show Metastasis (spreading to other parts of the body).",
+    "hint": "Cancer-causing genes are called Oncogenes. Normal cells have Proto-oncogenes."
+  },
+  "Taxonomy": {
+    "trick": "Keep Pots Clean Or Family Gets Sick (Kingdom, Phylum, Class, Order, Family, Genus, Species).",
+    "concept": "The hierarchical classification of life. Species is the basic and lowest unit of classification.",
+    "hint": "Carolus Linnaeus is the Father of Taxonomy."
+  },
+  "Phylum Porifera": {
+    "trick": "Sponges = Pores all over the body.",
+    "concept": "Cellular level of organization. Possess a unique water canal system for food and oxygen gathering.",
+    "hint": "Choanocytes (collar cells) line the spongocoel and canals."
+  },
+  "Phylum Arthropoda": {
+    "trick": "Jointed Appendages (Legs).",
+    "concept": "Largest phylum of Animalia. They have a chitinous exoskeleton and open circulatory system.",
+    "hint": "Respiration occurs through gills, book gills, book lungs, or tracheal system."
+  },
+  "Phylum Chordata": {
+    "trick": "Four key features at some stage: Notochord, Nerve cord, Pharyngeal slits, Post-anal tail.",
+    "concept": "Includes vertebrates. The notochord is replaced by a vertebral column in adult vertebrates.",
+    "hint": "All vertebrates are chordates, but not all chordates are vertebrates."
+  },
+  "Ozone Depletion": {
+    "trick": "Good ozone is UP (Stratosphere), Bad ozone is DOWN (Troposphere).",
+    "concept": "CFCs release active chlorine atoms that degrade ozone molecules into molecular oxygen.",
+    "hint": "Ozone thickness is measured in Dobson Units (DU)."
   }
 }
